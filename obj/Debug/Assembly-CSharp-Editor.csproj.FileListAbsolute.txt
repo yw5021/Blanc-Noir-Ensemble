@@ -1,0 +1,2 @@
+C:\Users\yw502\Desktop\Blanc Noir Ensemble_proto\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Users\yw502\Desktop\Blanc Noir Ensemble_proto\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
